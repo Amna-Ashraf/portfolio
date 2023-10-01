@@ -142,7 +142,10 @@
     display: flex;
 }
 .SnapshootPortfolio{
-    width: 295px; height: 220px; position: relative; border-radius: 8px;
+    width: 295px; 
+    height: 220px; 
+    position: relative; 
+    border-radius: 8px;
 }
 .LeftBlock{
     flex-direction: column; 
@@ -189,7 +192,11 @@
     border-radius: 9999px;
 }
 .YearLabel{
-    padding-top: 8px; padding-bottom: 8px; justify-content: flex-start; align-items: center; display: flex;
+    padding-top: 8px; 
+    padding-bottom: 8px; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: flex;
 }
 .Role{
     padding-top: 8px; 
@@ -199,7 +206,12 @@
     display: flex;
 }
 .Text2{
-    color: #7A869A; font-size: 13px; font-family: Poppins; font-weight: 600; line-height: 16px; word-wrap: break-word;
+    color: #7A869A; 
+    font-size: 13px; 
+    font-family: Arial; 
+    font-weight: 600; 
+    line-height: 16px; 
+    word-wrap: break-word;
 }
 .PrimaryText{
     width: 295px; 
@@ -266,4 +278,164 @@
     line-height: 24px; 
     letter-spacing: 0.51px; 
     word-wrap: break-word;
+}
+.AboutMySelf{
+    width: 100%; 
+    height: 100%; 
+    padding-left: 24px; 
+    padding-right: 24px;
+    padding-top: 114px; 
+    padding-bottom: 114px; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+    gap: 24px; 
+    display: inline-flex;
+}
+.Top{
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 12px; 
+    display: flex;
+}
+.PrimaryText3{
+    width: 327px; 
+    height: 35px; 
+    color: #172B4D; 
+    font-size: 40px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    line-height: 52px; 
+    word-wrap: break-word;
+}
+.PrimaryText4{
+    width: 327px; 
+    height: 147px; 
+    color: #344563; 
+    font-size: 16px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    line-height: 24px; 
+    word-wrap: break-word;
+}
+.SocialMedia{
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 16px; 
+    display: flex;
+}
+.SupportingText{
+    justify-content: flex-start; 
+    align-items: center;
+    gap: 8px; 
+    display: inline-flex;
+}
+.NormalButtonSecondary-Enabled{
+    padding: 12px; 
+    border-radius: 8px; 
+    overflow: hidden; 
+    border: 1px #6070FF solid; 
+    justify-content: flex-start; 
+    align-items: center; 
+    gap: 10px; 
+    display: inline-flex;
+}
+.GetMyResume{
+    text-align: center; 
+    color: #396DF2; 
+    font-size: 17px; 
+    font-family: Arial; 
+    font-weight: 500; 
+    line-height: 24px; 
+    letter-spacing: 0.51px; 
+    word-wrap: break-word;
+}
+.SkillList{
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: flex;
+}
+.Frame12{
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: flex;
+}
+.Frame7{
+    padding-top: 16px; 
+    padding-bottom: 16px; 
+    padding-left: 12px; 
+    padding-right: 26px; 
+    justify-content: flex-start; 
+    align-items: center; 
+    gap: 12px; 
+    display: inline-flex;
+}
+.Languages{
+    width: 237px; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Arial; 
+    font-weight: 500; 
+    line-height: 24px; 
+    word-wrap: break-word;
+}
+.NormalButtonTertiary-Disabled{
+    align-self: stretch; 
+    padding: 8px; 
+    border-radius: 8px; 
+    overflow: hidden; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: inline-flex;
+}
+.IconsIconChevronDownLarger{
+    width: 24px; 
+    height: 24px; 
+    position: relative;
+}
+.Union2{
+    width: 14px; height: 8px; left: 5px; top: 8px; position: absolute;
+}
+.LangguageList{
+    padding: 12px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 12px; display: flex;
+}
+.Frame9{
+    width: 303px; padding-top: 9px; padding-bottom: 9.72px; padding-left: 12px; padding-right: 12px; background: #F7F7F9; border-radius: 8px; overflow: hidden; justify-content: center; align-items: center; gap: 16px; display: inline-flex;
+}
+.Ellipse1{
+    width: 48px; height: 48px; border-radius: 9999px; border: 1px white solid;
+}
+.Language{
+    width: 215px; height: 24px; color: #253858; font-size: 15px; font-family: Poppins; font-weight: 500; line-height: 20px; word-wrap: break-word;
+}
+.Frame10{
+    width: 303px; padding-top: 9px; padding-bottom: 9.72px; padding-left: 12px; padding-right: 12px; background: #F7F7F9; border-radius: 8px; overflow: hidden; justify-content: center; align-items: center; gap: 16px; display: inline-flex;
+}
+.Frame11{
+    width: 303px; padding-top: 9px; padding-bottom: 9.72px; padding-left: 12px; padding-right: 12px; background: #F7F7F9; border-radius: 8px; overflow: hidden; justify-content: center; align-items: center; gap: 16px; display: inline-flex;
+}
+.Frame8{
+    width: 327px; height: 72px; position: relative;
+}
+.Frameworks{
+    width: 237px; left: 12px; top: 24px; position: absolute; color: black; font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 24px; word-wrap: break-word;
+}
+.Union3{
+    width: 8px; height: 14px; left: 9px; top: 5px; position: absolute;
+}
+.SeparatorBottom{
+    width: 327px; height: 1px; left: 0px; top: 71px; position: absolute; background: #DFE1E6;
+}
+.frame9{
+    width: 327px; height: 72px; position: relative;
+}
+.Skills{
+    width: 237px; left: 12px; top: 24px; position: absolute; color: black; font-size: 20px; font-family: Poppins; font-weight: 500; line-height: 24px; word-wrap: break-word;
+}
+.NormalButtonTertiaryDisabled{
+    padding: 8px; left: 261px; top: 16px; position: absolute; border-radius: 8px; overflow: hidden; justify-content: flex-start; align-items: flex-start; display: inline-flex;
 }
