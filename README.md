@@ -1,6 +1,25 @@
 # portfolio
-portfolio is a webpage for my professional portfolio
-it uses the template1 of figma
-it has a section header and headline that gives my brief introduction
-the second section consists of my work 
-the third section consists details about myself 
+
+> this portfolio contains my introduction, my projects and contact information.
+
+### Key Features <a name="key-features"></a>
+feature1 = contains header and a headline
+feature2 = contains my works and projects
+feature3 = contains a About Myself section
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+someone who view my portfolio will get to know me professionaly.
+
+
+
+## 👥 Authors <a name="amna"></a>
+
+Amna Ashraf
+
+## ⭐️ Show your support 
+
+
+If you like this project please give me feedbacks
