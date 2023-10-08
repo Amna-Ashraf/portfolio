@@ -6,7 +6,9 @@
   padding: 0 0 0 0;
   opacity: 1;
 }
-
+img{
+  position: absolute;
+}
 .toolbarContainer {
   width: 375px;
   height: 48px;
@@ -604,7 +606,7 @@
 .Rectangle4 {
   width: 74.7px;
   height: 17.21px;
-  left: 310px;
+  left: 300px;
   top: 40px;
   position: absolute;
   transform: rotate(-23.18deg);
