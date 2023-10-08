@@ -6,7 +6,9 @@
   padding: 0 0 0 0;
   opacity: 1;
 }
-
+img{
+  position: absolute;
+}
 .toolbarContainer {
   width: 375px;
   height: 48px;
@@ -602,15 +604,16 @@
 }
 
 .Rectangle4 {
-    width: 74.7px;
-    height: 17.21px;
-    left: 310px;
-    top: 40px;
-    position: absolute;
-    transform: rotate(-23.18deg);
-    transform-origin: 0 0;
-    background: #7f8cff;
-}
+
+  width: 74.7px;
+  height: 17.21px;
+  left: 300px;
+  top: 40px;
+  position: absolute;
+  transform: rotate(-23.18deg);
+  transform-origin: 0 0;
+  background: #7f8cff;
+
 
 .Ellipse3 {
     width: 90px;
