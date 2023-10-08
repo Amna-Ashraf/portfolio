@@ -18,6 +18,7 @@ someone who view my portfolio will get to know me professionaly.
 ## 👥 Authors <a name="amna"></a>
 
 Amna Ashraf
+Saim Tasleem(colaborator)
 
 ## ⭐️ Show your support 
 
