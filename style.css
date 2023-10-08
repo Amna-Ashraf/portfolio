@@ -6,6 +6,9 @@
     padding: 0px 0px 0px 0px; 
     opacity: 1;
 }
+img{
+    position: absolute;
+}
 .toolbarContainer{
     width: 375px; 
     height: 48px;
